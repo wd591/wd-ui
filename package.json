@@ -1,7 +1,11 @@
 {
-  "name": "wd-ui",
-  "version": "0.1.0",
-  "private": true,
+  "name": "wd591-ui",
+  "version": "0.1.1",
+  "private": false,
+  "main": "dist/wd591-ui.umd.min.js",
+  "author": {
+    "name": "wdd"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

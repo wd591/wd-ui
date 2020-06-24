@@ -1,6 +1,7 @@
 import WdButton from './button/src/button.vue'
 import WdDialog from './dialog/src/component.vue'
 import WdInput from './input/src/main.vue'
+import './theme-chalk/src/index.scss'
 
 const components = [
   WdButton,

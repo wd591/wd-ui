@@ -1,24 +1,13 @@
-# wd-ui
+# wd591-ui
 
-## Project setup
+## Install
 ```
-npm install
+npm install element-ui -S
+yarn add wd591-ui
 ```
-
-### Compiles and hot-reloads for development
+### Quick Start
 ```
-npm run serve
+import WdUI from 'wd591-ui'
+import 'wd591-ui/dist/wd591-ui.css'
+Vue.use(Element)
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import './components/theme-chalk/src/index.scss'
+// import './components/theme-chalk/src/index.scss'
 // import WdButton from './components/button'
 // import WdDialog from './components/dialog'
 // import WdInput from './components/input'
