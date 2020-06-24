@@ -1,4 +1,4 @@
-# wd_ui
+# wd-ui
 
 ## Project setup
 ```
